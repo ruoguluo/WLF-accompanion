@@ -1,0 +1,69 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 44
+>>
+stream
+BT
+/F1 12 Tf
+100 700 Td
+(John Doe) Tj
+100 680 Td
+(john.doe@email.com) Tj
+100 660 Td
+(123-456-7890) Tj
+100 640 Td
+(Software Engineer with 5 years experience) Tj
+100 620 Td
+(Education:) Tj
+100 600 Td
+(Bachelor of Science in Computer Science) Tj
+100 580 Td
+(University of Technology, 2018) Tj
+100 560 Td
+(Experience:) Tj
+100 540 Td
+(Senior Software Engineer at Tech Corp) Tj
+100 520 Td
+(2020-2024) Tj
+100 500 Td
+(Skills: JavaScript, React, Node.js, Python) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000172 00000 n 
+trailer
+<<
+/Size 5
+/Root 1 0 R
+>>
+startxref
+266
+%%EOF
